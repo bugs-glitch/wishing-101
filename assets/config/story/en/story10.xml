@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[The]]></string>
+	<string id="1" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[bunny]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[is]]></string>
+	<string id="2" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[dancing]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[up]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[a]]></string>
+	<string id="3" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[storm.]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Let's]]></string>
+	<string id="4" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[rain]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[on]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[her]]></string>
+	<string id="5" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[parade.]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="0.85" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Sometimes, you just have to enjoy the music and dance!]]></string>
+	
+</strings>

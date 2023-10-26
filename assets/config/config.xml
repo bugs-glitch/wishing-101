@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+
+	<!-- LOCALIZATION --> 
+	<!-- cn, en, la, ru, sc -->
+	<localization>
+		<region>en</region>
+	</localization> 
+
+
+	<!-- Piracy Control Url-->
+	<piracycontrol>http://www.nick.com/games/spongebob-squarepants-boogiebob-dancepants.html</piracycontrol>
+	
+	<!-- Determines Piracy Control feature is activated or not. A value of 'true' activates it.-->
+	<piratecontrolactivated>false</piratecontrolactivated>
+	
+	
+	
+	
+	<!-- 
+		ENABLE  = 1
+		DISABLE = 0
+	-->
+	
+	<!-- CANADA TRACKING -->
+	<Canadatracking>0</Canadatracking>
+	
+	<!-- IN-GAME VOICE OVERS -->
+	<gameVO>1</gameVO>
+	
+	
+	<!------ GAME SPECIFIC ---------->
+	<!-- Anchovy Spawn Rate -->
+	<!-- Number of anchovies that appear after each hyper mode..-->
+	<anchovyspawn>4</anchovyspawn>
+	
+	<!-- Anchovy Dance Rate -->
+	<!-- Number of anchovies that dance after each hyper mode.-->
+	<anchovydance>5</anchovydance>
+
+	
+
+</config>

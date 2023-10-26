@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Wish]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[for]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[some]]></string>
+	<string id="4" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[money!]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Let's]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[buy]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[a]]></string>
+	<string id="3" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[toy]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[and]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[a]]></string>
+	<string id="2" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[banana]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[for]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[the]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[sad]]></string>
+	<string id="1" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[monkey.]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="1.2" offsetX="0" offsetY="0" fontName="arialblack">
+		<![CDATA[No Wishing for Money]]>
+	</string>
+</strings>

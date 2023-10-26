@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Now]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[That's]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[A]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Lot]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[of]]></string>
+	<string id="1" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[clones]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[today!]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Have]]></string>
+	<string id="2" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Mr. Beaver]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[and]]></string>
+	<string id="3" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Mr. Duck]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[met]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[their]]></string>
+	<string id="4" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[roommates,]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[yet?]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="0.85" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Cloning Wishes can only be cancelled if the Clones are in the same room.]]></string>
+	
+</strings>

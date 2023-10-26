@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="1" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Wish]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[for]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[the]]></string>
+	<string id="2" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[owl]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[to]]></string>
+	<string id="3" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[see]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Foop.]]></string>
+	<string id="4" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Note]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[how]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[he'll]]></string>
+	<string id="5" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[bow]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[before]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[the]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[anti-fairy!]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="0.85" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[No Wishing To See the Anti-Fairies.]]></string>
+	
+</strings>

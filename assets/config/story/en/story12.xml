@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Fine,]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[let's]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[make]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[the]]></string>
+	<string id="1" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[raccoon]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[super]]></string>
+	<string id="2" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[happy]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[with]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[a]]></string>
+	<string id="3" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Super Wish!]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[You]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[can]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[grant]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[that]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[as]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[a]]></string>
+	<string id="4" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[present,]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[right?]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="0.85" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[No "Super Wishes" are allowed. So grant other kinds of happier wishes!]]></string>
+	
+</strings>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="1" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Pancakes]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[are]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[always]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[yummy!]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[No]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[matter]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[what]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[the]]></string>
+	<string id="2" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Clock]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[actually]]></string>
+	<string id="3" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[says!]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="1.2" offsetX="0" offsetY="0" fontName="arialblack">
+		<![CDATA[No Breakfast Wishes after 10:30a.m.]]>
+	</string>
+	
+</strings>

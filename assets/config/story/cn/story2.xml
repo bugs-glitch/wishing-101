@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+	
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Why]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[would]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[anyone]]></string>
+	<string id="3" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[KISS]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[a]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[slimy]]></string>
+	<string id="1" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[frog?]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Take]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[this]]></string>
+	<string id="2" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[axe]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[and]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[get]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[rid]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[of]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[him!]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="1.2" offsetX="0" offsetY="0" fontName="arialblack">
+		<![CDATA[Words may have many meanings. Watch what you wish for!]]>
+	</string>
+
+</strings>

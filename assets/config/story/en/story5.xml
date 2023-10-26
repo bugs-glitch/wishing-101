@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="1" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Valentine's]]></string>
+	<string id="4" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Day]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[is]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[boring.]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[Wouldn't]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[you]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[rather]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[play]]></string>
+	<string id="2" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[bridge]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[or]]></string>
+	<string id="3" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[hearts]]></string>
+	<string id="0" fontScale="0.5" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[instead?]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="0.85" offsetX="0" offsetY="0" fontName="fop_all_caps_big_black"><![CDATA[You can't stop Love.]]></string>
+	
+</strings>

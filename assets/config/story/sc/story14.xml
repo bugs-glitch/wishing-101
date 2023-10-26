@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Now]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[That's]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[A]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Lot]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[of]]></string>
+	<string id="1" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[clones]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[today!]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Have]]></string>
+	<string id="2" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Mr. Beaver]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[and]]></string>
+	<string id="3" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Mr. Duck]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[met]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[their]]></string>
+	<string id="4" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[roommates,]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[yet?]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="1.2" offsetX="0" offsetY="0" fontName="arialblack">
+		<![CDATA[Cloning Wishes can only be cancelled if the Clones are in the same room.]]>
+	</string>
+	
+</strings>

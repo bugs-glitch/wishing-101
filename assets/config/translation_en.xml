@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="fop_all_caps_black">
+
+	<!-- Loading. Also modifies size of loading percentage number shown. -->
+	<string id="loading" fontScale="0.75" offsetX="1.1" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Loading]]></string> 
+	
+	
+	<!-- Title -->
+	<!-- For Flash -->
+	<string id="click_anywhere" fontScale="0.55" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Click Anywhere to Play]]></string>
+	<!-- For HTML5 -->
+	<string id="tap_anywhere" fontScale="0.55" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Tap Anywhere to Play]]></string>
+	
+	<!--For Flash-->
+	<string id="click_again" fontScale="0.55" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Click Anywhere to Play Again]]></string>
+	<!-- For HTML5 -->
+	<string id="tap_again" fontScale="0.55" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Tap Anywhere to Play Again]]></string>
+	
+	
+	<!-- Title -->
+	<!-- For Flash -->
+	<string id="click_anywhere_white" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[Click Anywhere to Play]]></string>
+	<!-- For HTML5 -->
+	<string id="tap_anywhere_white" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[Tap Anywhere to Play]]></string>
+	
+	<!--For Flash-->
+	<string id="click_again_white" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[Click Anywhere to Play Again]]></string>
+	<!-- For HTML5 -->
+	<string id="tap_again_white" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[Tap Anywhere to Play Again]]></string>
+	
+	
+	<string id="skip" fontScale="1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[SKIP]]></string>
+
+	<string id="chapter_select" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER SELECT]]></string>
+	
+	<string id="chapter1" fontScale="1.1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER 1]]></string>
+	
+	<string id="chapter2" fontScale="1.1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER 2]]></string>
+	
+	<string id="chapter3" fontScale="1.1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER 3]]></string>
+	
+	<string id="chapter4" fontScale="1.1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER 4]]></string>
+	
+	<string id="chapter5" fontScale="1.1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER 5]]></string>
+	
+	
+	<string id="chapter_text" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER WRITEUP]]></string>
+	
+	<string id="chapter_text_1" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[A Little Ouch is Okay]]></string>
+	
+	<string id="chapter_text_2" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Breaking Da Rules is Easy]]></string>
+	
+	<string id="chapter_text_3" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Unwishing is Awesome]]></string>
+	
+	<string id="chapter_text_4" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Happiness is Overrated]]></string>
+	
+	<string id="chapter_text_5" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Wishes are Always Wonderful]]></string>
+	
+	<string id="page1" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[PAGE 1]]></string>
+	
+	<string id="page2" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[PAGE 2]]></string>
+	
+	<string id="page3" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_white"><![CDATA[PAGE 3]]></string>
+	
+	<string id="ending" fontScale="0.6" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CHAPTER COMPLETED!]]></string>
+	
+	<string id="ending_large" fontScale="1.25" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[CONGRATULATIONS!]]></string>
+	
+	<string id="more_puzzles" fontScale="1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[MORE PUZZLES TO COME!]]></string>
+
+	
+	<string id="intro" fontScale="0.6" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Foop has trapped Chloe in Da Anti-Rule Book. Find your way around the pages without breaking the real Fairly OddParent rules, which are the opposite of what the book says.]]></string>
+	<!--  -->
+	
+	<string id="paused" fontScale="1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[PAUSED]]></string>
+	
+	<string id="quit_game" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Quit Game?]]></string>
+	
+	<string id="placeholder" fontScale="1.5" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[PLACEHOLDER]]></string>
+
+	
+	<string id="in_progress" fontScale="1.5" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[WORK IN PROGRESS]]></string>
+
+	<!-- Game Help -->
+	
+	<string id="how_to_play" fontScale="1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[HOW TO PLAY]]></string>
+	
+	<string id="how_to_activate" fontScale="0.4" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[To activate a]]></string>	
+	
+	<string id="word" fontScale="0.4" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[word]]></string>	
+	
+	<string id="how_to_move" fontScale="0.4" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[To move Chloe left and right]]></string>	
+	
+	<!-- Game Intro -->
+	
+	<!-- Game how to -->
+	
+	<!-- In game -->
+	<string id="clue_clock_1" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[You can change the time on the clock.]]></string>
+	<string id="clue_clock_2" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[The little hand is past 8 but before 12.]]></string>
+	<string id="clue_clock_3" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[The big hand is past 5 but before 8.]]></string>
+
+	<string id="chapter" fontScale="0.65" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Chapter ]]></string>
+	<string id="page" fontScale="0.65" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Page ]]></string>
+	<string id="da_rule" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Da Rule]]></string>
+	<string id="the_end" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[THE END?]]></string>
+	
+	
+	<!-- Needed for in-game text spacing -->
+	<string id="one_space" fontScale="1" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[ ]]></string>
+	<!-- Needed for in-game text spacing -->
+	
+	<!-- For Desktop -->
+	<string id="click_to_proceed" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Click Anywhere to Proceed]]></string>
+	<!-- For HTML5 -->
+	<string id="tap_to_proceed" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[Tap Anywhere to Proceed]]></string>
+	
+	<string id="next" fontScale="0.75" offsetX="0" offsetY="0" fontName="fop_all_caps_black"><![CDATA[NEXT]]></string>
+	
+</strings>

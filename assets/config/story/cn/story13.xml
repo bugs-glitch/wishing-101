@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<strings defaultFont="arialblack">
+
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[The]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[sad]]></string>
+	<string id="1" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Mouse]]></string>
+	<string id="2" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[lost]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[a]]></string>
+	<string id="3" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[tooth?]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[We]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Should]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Wish]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[for]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[more]]></string>
+	<string id="4" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[teeth]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[so]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[the]]></string>
+	<string id="5" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[Tooth Fairy]]></string>
+	<string id="6" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[pays]]></string>
+	<string id="0" fontScale="0.85" offsetX="0" offsetY="0" fontName="arialblack"><![CDATA[up!]]></string>
+	
+	<!-- Da rule message -->
+	<string id="-1" fontScale="1.2" offsetX="0" offsetY="0" fontName="arialblack">
+		<![CDATA[Tooth-based wishes can only be made by the Tooth Fairy.]]>
+	</string>
+	
+</strings>
